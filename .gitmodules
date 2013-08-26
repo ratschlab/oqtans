@@ -1,3 +1,6 @@
 [submodule "oqtans_tools"]
 	path = oqtans_tools
 	url = git@github.com:ratschlab/oqtans_tools.git
+[submodule "oqtans_doc"]
+	path = oqtans_doc
+	url = git@github.com:ratschlab/oqtans_doc.git
