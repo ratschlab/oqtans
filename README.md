@@ -1,5 +1,5 @@
 ###### ==================================================
-## oqtans: Online Quantitative Transcriptome Analysis
+#### oqtans: Online Quantitative Transcriptome Analysis
 ###### ==================================================
 A Machine Learning powered platform for quantitatively analyzing RNA-sequencing experiments.
 
@@ -20,7 +20,7 @@ Contact:
 
 Available under GPL license
 
-#### Configuration:
+##### Configuration:
 ###### ==============
     
     Edit the master config file ./oqtans_config.sh to set the path. 
