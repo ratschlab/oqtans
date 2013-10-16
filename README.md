@@ -9,7 +9,7 @@ A Machine Learning powered platform for quantitatively analyzing RNA-sequencing 
 
 [oqtans Demo Server](http://cloud.oqtans.org) 
 
-oqtans Amazon Machine: Image coming soon
+oqtans Amazon Machine Image: coming soon
 
 Contact: support [at] oqtans.org
 
