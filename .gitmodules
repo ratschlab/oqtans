@@ -3,7 +3,7 @@
 	url = git@github.com:ratschlab/oqtans_tools.git
 [submodule "oqtans_doc"]
 	path = oqtans_doc
-	url = git://github.com/ratschlab/oqtans_doc.git
+	url = https://github.com/ratschlab/oqtans_doc.git
 [submodule "oqtans_dep"]
 	path = oqtans_dep
 	url = git@github.com:ratschlab/oqtans_dep.git
