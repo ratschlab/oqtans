@@ -1,6 +1,12 @@
 [submodule "oqtans_tools"]
 	path = oqtans_tools
-	url = git@github.com:ratschlab/oqtans_tools.git
+	url = git://github.com/ratschlab/oqtans_tools.git
 [submodule "oqtans_doc"]
 	path = oqtans_doc
-	url = git@github.com:ratschlab/oqtans_doc.git
+	url = git://github.com/ratschlab/oqtans_doc.git
+[submodule "oqtans_dep"]
+	path = oqtans_dep
+	url = git://github.com/ratschlab/oqtans_dep.git
+[submodule "oqtans_src"]
+	path = oqtans_src
+	url = git://github.com/ratschlab/oqtans_src.git
